@@ -1,2 +1,2 @@
 # finance
-Analyzing Stock with Python
+Practice: Analyzing Stock with Python
